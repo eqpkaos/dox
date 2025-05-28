@@ -1,5 +1,5 @@
 const tabTitles = [
-    "fucked by x",
+    "fucked by vile",
     "Scam",
     "Explanation",
     "Doxxer",
